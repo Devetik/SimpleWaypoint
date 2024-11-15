@@ -1,0 +1,10 @@
+## Interface: 11400
+## Title: SimpleWaypoint
+## Author: YourName
+## Notes: Addon simplifié pour ajouter des points sur la carte et la mini-carte.
+## Version: 1.0
+## OptionalDeps: HereBeDragons, HereBeDragons-Pins
+lib/HereBeDragons/HereBeDragons-2.0.lua
+lib/HereBeDragons/HereBeDragons-Pins-2.0.lua
+
+SimpleWaypoint.lua
